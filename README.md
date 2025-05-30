@@ -7,7 +7,7 @@
 ## 🚀 Мои ключевые проекты
 
 [![Периодическая таблица](https://github-readme-stats.vercel.app/api/pin/?username=DIBERLOG&repo=periodic-table)](https://github.com/DIBERLOG/periodic-table)
-[![Карта физики](https://github-readme-stats.vercel.app/api/pin/?username=DIBERLOG&repo=physics-map&theme=dark)](https://github.com/DIBERLOG/physics-map)
+[![map_Physics](https://github-readme-stats.vercel.app/api/pin/?username=DIBERLOG&repo=map_Physics)](https://github.com/DIBERLOG/map_Physics)
 
 [![Earthlight VS Aliens](https://github-readme-stats.vercel.app/api/pin/?username=DIBERLOG&repo=Earthlight-VS-Aliens-Attacks)](https://github.com/DIBERLOG/Earthlight-VS-Aliens-Attacks)
 
