@@ -1,0 +1,14 @@
+# 👋 Привет, я Егор Ангелов
+
+🔭 Увлекаюсь веб-разработкой и созданием игр  
+🌱 Изучаю продвинутый JavaScript и 3D-графику  
+🎯 Цель: стать full-stack разработчиком  
+
+## 🏆 Мои лучшие проекты
+
+[![Периодическая таблица](https://github-readme-stats.vercel.app/api/pin/?username=DIBERLOG&repo=periodic-table)](https://github.com/DIBERLOG/periodic-table)
+[![Карта физики](https://github-readme-stats.vercel.app/api/pin/?username=DIBERLOG&repo=physics-map)](https://github.com/DIBERLOG/physics-map)
+
+## 📊 Статистика
+
+[![Моя статистика](https://github-readme-stats.vercel.app/api?username=DIBERLOG&show_icons=true&theme=radical)](https://github.com/DIBERLOG)
