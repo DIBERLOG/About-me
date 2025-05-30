@@ -9,7 +9,7 @@
 [![Периодическая таблица](https://github-readme-stats.vercel.app/api/pin/?username=DIBERLOG&repo=periodic-table)](https://github.com/DIBERLOG/periodic-table)
 [![map_Physics](https://github-readme-stats.vercel.app/api/pin/?username=DIBERLOG&repo=map_Physics)](https://github.com/DIBERLOG/map_Physics)
 [![Earthlight VS Aliens](https://github-readme-stats.vercel.app/api/pin/?username=DIBERLOG&repo=Earthlight-VS-Aliens-Attacks)](https://github.com/DIBERLOG/Earthlight-VS-Aliens-Attacks)
-[![Minecraft Clone](https://img.shields.io/badge/⛏️_Minecraft_Clone-3D_Block_Game-green?style=for-the-badge&logo=block)](https://github.com/DIBERLOG/the-minecraft-project)
+[![Tech](https://img.shields.io/badge/Python-3D_Engine-blue?style=for-the-badge&logo=python)](https://github.com/DIBERLOG/the-minecraft-project)
 
 ## 📊 Статистика
 
