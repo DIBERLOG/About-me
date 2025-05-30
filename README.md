@@ -6,14 +6,9 @@
 
 ## 🚀 Мои ключевые проекты
 
-[![Периодическая таблица](https://github-readme-stats.vercel.app/api/pin/?username=DIBERLOG&repo=periodic-table&show_owner=true)](https://github.com/DIBERLOG/periodic-table)
-_Интерактивная таблица Менделеева с химическими свойствами элементов_
-
-[![Карта физики](https://github-readme-stats.vercel.app/api/pin/?username=DIBERLOG&repo=physics-map&show_owner=true)](https://github.com/DIBERLOG/physics-map)
-_Визуализация взаимосвязей между разделами физики (в разработке)_
-
-[![Earthlight VS Aliens](https://github-readme-stats.vercel.app/api/pin/?username=DIBERLOG&repo=earthlight-alien-invasion&show_owner=true)](https://github.com/DIBERLOG/earthlight-alien-invasion)
-_Космический шутер на Python с динамической сложностью_
+[![Периодическая таблица](https://github-readme-stats.vercel.app/api/pin/?username=DIBERLOG&repo=periodic-table)](https://github.com/DIBERLOG/periodic-table)
+[![Карта физики](https://github-readme-stats.vercel.app/api/pin/?username=DIBERLOG&repo=physics-map)](https://github.com/DIBERLOG/physics-map)
+[![Карта физики](https://github-readme-stats.vercel.app/api/pin/?username=DIBERLOG&repo=physics-map)]([https://github.com/DIBERLOG/physics-map](https://github.com/DIBERLOG/Earthlight-VS-Aliens-Attacks))
 
 
 ## 📊 Статистика
