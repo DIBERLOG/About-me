@@ -10,7 +10,7 @@
 
 [![Периодическая таблица](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=periodic-table&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/periodic-table)
 
-[![map_Physics](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=map_Physics&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/map_Physics)
+[![map_Physics](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=map_Physics&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/map_fiziki)
 
 [![Earthlight VS Aliens](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=Earthlight-VS-Aliens-Attacks&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/Earthlight-VS-Aliens-Attacks)
 
