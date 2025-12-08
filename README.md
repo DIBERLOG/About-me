@@ -13,10 +13,19 @@
 [![Minecraft Project](https://github-readme-stats.vercel.app/api/pin/?username=DIBERLOG&repo=the-minecraft-project)](https://github.com/DIBERLOG/the-minecraft-project)
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DIBERLOG&theme=radical&ring=ff3068&fire=ff3068&currStreakLabel=ff3068)](https://git.io/streak-stats)
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub статистика
+
+<div align="center">
+
 [![DIBERLOG GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DIBERLOG&show_icons=true&theme=radical&rank_icon=github)](https://github.com/DIBERLOG)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DIBERLOG&layout=compact&theme=radical)](https://github.com/DIBERLOG)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DIBERLOG&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=ff3068&ring=ff3068)](https://git.io/streak-stats)
+
+</div>
+
 
 
