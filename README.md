@@ -14,9 +14,16 @@
 
 
 
-## 📊 GitHub Stats
+<div align="center">
+
+### ⚡ Моя GitHub статистика
 
 [![Моя статистика](https://github-readme-stats-diberlog.vercel.app/api?username=DIBERLOG&show_icons=true&theme=tokyonight&title_color=00eaff&text_color=ffffff&icon_color=00eaff&bg_color=0d1117&border_color=00eaff&ring_color=00eaff)](https://github.com/DIBERLOG)
+
+[![Топ языков](https://github-readme-stats-diberlog.vercel.app/api/top-langs/?username=DIBERLOG&layout=donut&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG)
+
+</div>
+
 
 
 
