@@ -1,4 +1,4 @@
-<!-- ABOUT ME — улучшенная версия с русскими цитатами -->
+<!-- ABOUT ME — улучшенная версия с англ. цитатами и переводом -->
 
 <div align="center">
 
@@ -22,7 +22,15 @@
 
 <div align="center">
 
-[![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=default&quote=%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D1%8B%20%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%D1%81%D1%8F%20%D0%B4%D0%BB%D1%8F%20%D1%82%D0%BE%D0%B3%D0%BE%2C%20%D1%87%D1%82%D0%BE%D0%B1%D1%8B%20%D0%B8%D1%85%20%D1%87%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%20%D0%BB%D1%8E%D0%B4%D0%B8%2C%20%D0%B0%20%D0%BB%D0%B8%D1%88%D1%8C%20%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D0%BF%D0%BB%D0%B0%D0%BD%20%E2%80%94%20%D0%B4%D0%BB%D1%8F%20%D0%B8%D1%85%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8.&author=%D0%93%D0%B0%D1%80%D0%BE%D0%BB%D1%8C%D0%B4%20%D0%90%D0%B1%D0%B5%D0%BB%D1%81%D0%BE%D0%BD)](https://github.com/PiyushSuthar/github-readme-quotes)
+[![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=default&quote=Programs%20must%20be%20written%20for%20people%20to%20read%2C%20and%20only%20incidentally%20for%20machines%20to%20execute.&author=Harold%20Abelson)](https://github.com/PiyushSuthar/github-readme-quotes)
+
+</div>
+
+<div align="center">
+
+_«Программы должны писаться так, чтобы их могли читать люди,  
+а исполнять — лишь машины.»_  
+— Гарольд Абельсон
 
 </div>
 
@@ -86,7 +94,51 @@
 
 <div align="center">
 
+<!-- 🎓 Цитаты о программировании и науке -->
+
+---
+
+<div align="center">
+
+[![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=default&quote=%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B%20%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D1%8B%20%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%D1%81%D1%8F%20%D1%82%D0%B0%D0%BA%2C%20%D1%87%D1%82%D0%BE%D0%B1%D1%8B%20%D0%B8%D1%85%20%D0%BC%D0%BE%D0%B3%D0%BB%D0%B8%20%D1%87%D0%B8%D1%82%D0%B0%D1%82%D1%8C%20%D0%BB%D1%8E%D0%B4%D0%B8%2C%20%D0%B0%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D1%8F%D1%82%D1%8C%20%E2%80%94%20%D0%BB%D0%B8%D1%88%D1%8C%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D1%8B.&author=%D0%93%D0%B0%D1%80%D0%BE%D0%BB%D1%8C%D0%B4%20%D0%90%D0%B1%D0%B5%D0%BB%D1%81%D0%BE%D0%BD)](https://github.com/PiyushSuthar/github-readme-quotes)
+
+</div>
+
+<div align="center">
+
+_«Программы должны писаться так, чтобы их могли читать люди,  
+а исполнять — лишь машины.»_  
+— Гарольд Абельсон
+
+</div>
+
+---
+
+<div align="center">
+
 [![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&quote=%D0%92%D0%B0%D0%B6%D0%BD%D0%BE%20%D0%BD%D0%B5%20%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D1%82%D0%B0%D0%B2%D0%B0%D1%82%D1%8C%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D1%8C%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B.%20%D0%9B%D1%8E%D0%B1%D0%BE%D0%B7%D0%BD%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%B8%D0%BC%D0%B5%D0%B5%D1%82%20%D1%81%D0%B2%D0%BE%D1%8E%20%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D1%83%20%D0%B1%D1%8B%D1%82%D1%8C.&author=%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82%20%D0%AD%D0%B9%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD)](https://github.com/PiyushSuthar/github-readme-quotes)
+
+</div>
+
+<div align="center">
+
+_«Важно никогда не переставать задавать вопросы.  
+Любознательность имеет свою собственную причину существовать.»_  
+— Альберт Эйнштейн
+
+</div>
+
+---
+
+
+
+</div>
+
+<div align="center">
+
+_«Важно никогда не переставать задавать вопросы.  
+Любознательность имеет свою собственную причину существовать.»_  
+— Альберт Эйнштейн
 
 </div>
 
