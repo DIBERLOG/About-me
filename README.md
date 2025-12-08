@@ -28,21 +28,28 @@
 
 ### 💎 Основные проекты
 
-[![Mendeleev Lab](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=mendeleev-lab.ru&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/mendeleev-lab.ru)
 🧪 **Mendeleev Lab** — интерактивная таблица Менделеева с визуализацией химических связей и элементов.  
 → _WebGL / JS / визуальные эффекты / физика / научное образование_
 
-[![AI Screenshot Assistant](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=AI-Screenshot-Assistant-Ultimate-Multi-Provider-Edition&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/AI-Screenshot-Assistant-Ultimate-Multi-Provider-Edition)
+[![Mendeleev Lab](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=mendeleev-lab.ru&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/mendeleev-lab.ru)
+
 🤖 **AI Screenshot Assistant** — мощный ассистент для генерации описаний и анализа скриншотов с поддержкой нескольких AI API.
 
-[![map_fiziki](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=map_fiziki&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/map_fiziki)
+[![AI Screenshot Assistant](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=AI-Screenshot-Assistant-Ultimate-Multi-Provider-Edition&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/AI-Screenshot-Assistant-Ultimate-Multi-Provider-Edition)
+
 🌍 **Map Fiziki** — интерактивная визуальная карта физики с зонами и узлами (D3.js → Leaflet).
 
-[![Earthlight VS Aliens](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=Earthlight-VS-Aliens-Attacks&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/Earthlight-VS-Aliens-Attacks)
+[![map_fiziki](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=map_fiziki&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/map_fiziki)
+
 🎮 **Earthlight VS Aliens** — аркадная Sci-Fi игра с кастомным движком и системой волн врагов.
 
-[![Minecraft Project](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=the-minecraft-project&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/the-minecraft-project)
+[![Earthlight VS Aliens](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=Earthlight-VS-Aliens-Attacks&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/Earthlight-VS-Aliens-Attacks)
+
 🧱 **Minecraft Project** — эксперименты с генерацией мира и симуляцией физики блоков.
+
+[![Minecraft Project](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=the-minecraft-project&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/the-minecraft-project)
+
+
 
 ---
 
@@ -74,7 +81,7 @@
 ### 🌐 Контакты
 
 📫 **GitHub:** [DIBERLOG](https://github.com/DIBERLOG)  
-💬 **Discord:** `diberlog`  
+💬 **Discord:** `diberloger`  
 🧩 **Email:** *minectur@gmail.com*  
 🎨 **Проекты:** [mendeleev-lab.ru](https://github.com/DIBERLOG/mendeleev-lab.ru)
 
