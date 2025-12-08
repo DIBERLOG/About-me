@@ -14,7 +14,9 @@
 
 
 
-## 📊 Статистика
+## 📊 GitHub Stats
 
-[![Моя статистика](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DIBERLOG&show_icons=true&theme=radical)](https://github.com/DIBERLOG)
+[![DIBERLOG GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DIBERLOG&show_icons=true&theme=radical&rank_icon=github)](https://github.com/DIBERLOG)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DIBERLOG&layout=compact&theme=radical)](https://github.com/DIBERLOG)
+
 
