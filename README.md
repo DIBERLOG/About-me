@@ -78,7 +78,7 @@
 → Используется как **учебный и исследовательский инструмент**  
 → _D3.js → Leaflet / JS / онтология / поиск_
 
-[![map_fiziki](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=map_fiziki&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff&v=2)](https://github.com/DIBERLOG/map_fiziki)
+[![map_fiziki](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=map_fiziki&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff&v=3)](https://github.com/DIBERLOG/map_fiziki)
 
 🎮 **Earthlight VS Aliens** — аркадная Sci-Fi игра  
 → Логика волн врагов, игровой цикл, архитектура проекта
