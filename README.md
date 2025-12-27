@@ -16,7 +16,7 @@
 🎯 Моя цель — стать **full-stack разработчиком**, способным создавать масштабные, умные и эстетичные продукты.  
 ⚡ Мне интересно всё — от физики и AI до архитектуры приложений и геймдизайна.
 
-> _"Код — это форма искусства, а баги — следы экспериментов."_ 🧠
+> _"Код — это форма искусства, а баги — следы экспериментов. &v=2"_ 🧠
 
 ---
 
@@ -53,7 +53,7 @@
 
 🌍 **Map Fiziki** — интерактивная визуальная карта физики с зонами и узлами (D3.js → Leaflet).
 
-[![map_fiziki](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=map_fiziki&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/map_fiziki)
+[![map_fiziki](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=map_fiziki&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff&v=2)](https://github.com/DIBERLOG/map_fiziki)
 
 🎮 **Earthlight VS Aliens** — аркадная Sci-Fi игра с кастомным движком и системой волн врагов.
 
@@ -84,7 +84,7 @@
 
 [![Моя статистика](https://github-readme-stats-diberlog.vercel.app/api?username=DIBERLOG&show_icons=true&theme=tokyonight&title_color=00eaff&text_color=ffffff&icon_color=00eaff&bg_color=0d1117&border_color=00eaff&ring_color=00eaff)](https://github.com/DIBERLOG)
 
-[![Топ языков](https://github-readme-stats-diberlog.vercel.app/api/top-langs/?username=DIBERLOG&layout=donut&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG)
+[![Топ языков](https://github-readme-stats-diberlog.vercel.app/api/top-langs/?username=DIBERLOG&layout=donut&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff&v=2)](https://github.com/DIBERLOG)
 
 </div>
 
