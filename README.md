@@ -1,144 +1,128 @@
 <div align="center">
 
-# 👋 Привет, я **Егор Ангелов**  
-🌌 _Разработчик, исследователь и создатель образовательных цифровых систем_
+# Egor Angelov
+### Frontend / Full-Stack Developer for custom websites, interfaces, automation, and AI tools
+
+I build projects that are not just "beautiful in screenshots", but usable in real work:
+landing pages, business websites, dashboards, internal tools, educational products, and AI-driven interfaces.
+
+[![GitHub](https://img.shields.io/badge/GitHub-DIBERLOG-111827?style=for-the-badge&logo=github)](https://github.com/DIBERLOG)
+[![Portfolio](https://img.shields.io/badge/Portfolio-phys--lab.ru-0f172a?style=for-the-badge)](https://phys-lab.ru)
+[![Email](https://img.shields.io/badge/Email-minectur%40gmail.com-1d4ed8?style=for-the-badge)](mailto:minectur@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-diberloger-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 
 </div>
 
 ---
 
-### 🚀 Обо мне
+## About Me
 
-🎓 В настоящее время **совмещаю обучение в университете**  
-с **практической разработкой учебных и исследовательских проектов**.
+I am a developer with a strong focus on frontend, product logic, and visual presentation.
+I combine practical web development with research and educational projects, and I am especially interested in interfaces where design, engineering, and real user scenarios matter equally.
 
-💻 Увлекаюсь **веб-разработкой**, **визуализацией данных**, **созданием игр**  
-и **исследованием новых технологий**.
+I can help clients with:
 
-🌱 Активно изучаю **JavaScript**, **Python**, **3D-графику**, **алгоритмы**  
-и **машинное обучение**.
-
-🎯 Моя цель — стать **full-stack / frontend-инженером**,  
-способным создавать **масштабные, интеллектуальные и визуально понятные системы**  
-на стыке **науки и технологий**.
-
-⚡ Мне интересно всё — от физики и AI до архитектуры приложений и геймдизайна.
-
-> _"Код — это форма искусства, а баги — следы экспериментов. (&v=2)"_ 🧠
+- custom landing pages and business websites
+- frontend implementation from idea, reference, or design
+- WordPress and WooCommerce projects
+- admin panels, dashboards, and internal interfaces
+- AI-powered utilities, automations, and desktop/web tools
+- improving project presentation for demos, portfolio, and sales
 
 ---
 
-<div align="center">
+## Why Clients Work With Me
 
-> _«Программы должны писаться так, чтобы их могли читать люди,  
-а исполнять — лишь машины.»_  
-
-— Гарольд Абельсон
-
-</div>
+- I focus not only on code, but on the final impression the product creates
+- I can package a project into a strong, presentable case, not just "deliver files"
+- I work across design, frontend, business logic, and product structure
+- I am comfortable with both educational/experimental systems and commercial interfaces
 
 ---
 
-## 🎓 Учёба и академические интересы
+## Tech Stack
 
-- Физика и математическое моделирование  
-- Алгоритмы и структуры данных  
-- Визуализация знаний и научных данных  
-- Архитектура веб-приложений  
-- Искусственный интеллект и машинное обучение  
-
-Использую **собственные проекты** как форму углублённого изучения  
-университетских дисциплин и практического применения теории.
+| Area | Technologies |
+| --- | --- |
+| Frontend | HTML, CSS, JavaScript, TypeScript, React, Vue, Vite |
+| Backend | Node.js, Express, PHP, WordPress, WooCommerce |
+| AI / Automation | Python, OpenAI API, Ollama, OCR, automation scripts |
+| Visual / Interactive | Three.js, WebGL, Canvas, UI systems, interactive graphics |
+| Data / Storage | MongoDB, SQLite, MySQL |
 
 ---
 
-<div align="center">
+## Selected Client-Facing Projects
 
-# ⚡ Мои ключевые проекты и достижения
+### Matreshka Master
+Premium WordPress / WooCommerce catalog website for a collectible matryoshka brand with custom theme, editable sections, request forms, and multilingual-ready architecture.
 
-</div>
+[![Matreshka Master](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=matreshka-master-wordpress&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/matreshka-master-wordpress)
 
-### 💎 Основные проекты
+### Manor Lords AI Agent
+Desktop AI agent with GUI, OCR, local LLM planning, and automated actions. A technical case that demonstrates work with Python tooling, computer vision, UI automation, and product packaging.
 
-🧪 **Mendeleev Lab** — интерактивная таблица Менделеева  
-→ Проектирование UI, структура данных, визуальная логика элементов  
-→ Образовательная платформа для школьников и студентов  
-→ _JavaScript / визуализация / научное образование_
+[![Manor Lords AI](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=manor-lords-ai&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/manor-lords-ai)
+
+### Vue Work Lab
+Vue 3 + Express SPA with interactive modules, API work, forms, state handling, and full educational app structure. Useful as a demonstration of component architecture and frontend logic.
+
+[![Vue Work Lab](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=work_project&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/work_project)
+
+---
+
+## Other Strong Projects
+
+### Mendeleev Lab
+Interactive educational platform based on the periodic table with custom UI, content structure, and visual logic for learning and exploration.
 
 [![Mendeleev Lab](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=mendeleev-lab.ru&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/mendeleev-lab.ru)
 
-🤖 **AI Screenshot Assistant** — ассистент для анализа скриншотов  
-→ Интеграция нескольких AI API, обработка изображений  
-→ Практический AI-инструмент
+### AI Screenshot Assistant
+Practical AI utility for screenshot analysis with multi-provider integration and image-processing workflow.
 
 [![AI Screenshot Assistant](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=AI-Screenshot-Assistant-Ultimate-Multi-Provider-Edition&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/AI-Screenshot-Assistant-Ultimate-Multi-Provider-Edition)
 
-🌍 **Map Fiziki (Phys-Lab)** — интерактивная визуальная карта физики  
-→ Архитектура карты, логика связей, визуализация знаний  
-→ Используется как **учебный и исследовательский инструмент**  
-→ _D3.js → Leaflet / JS / онтология / поиск_
+### Map Fiziki
+Interactive visual knowledge map for physics topics with focus on structure, relations, search, and educational navigation.
 
-[![map_fiziki](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=map_fiziki&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff&v=3)](https://github.com/DIBERLOG/map_fiziki)
-
-🎮 **Earthlight VS Aliens** — аркадная Sci-Fi игра  
-→ Логика волн врагов, игровой цикл, архитектура проекта
-
-[![Earthlight VS Aliens](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=Earthlight-VS-Aliens-Attacks&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/Earthlight-VS-Aliens-Attacks)
-
-🧱 **Minecraft Project** — эксперименты с генерацией мира  
-→ Симуляции и логика физических процессов
-
-[![Minecraft Project](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=the-minecraft-project&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/the-minecraft-project)
+[![Map Fiziki](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=map_fiziki&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff&v=3)](https://github.com/DIBERLOG/map_fiziki)
 
 ---
 
-### 🧰 Технологии и инструменты
+## What I Value In Projects
 
-<div align="center">
-
-| 💻 Frontend | ⚙️ Backend | 🧠 AI / Tools | 🎨 Графика / 3D |
-|-------------|-------------|----------------|----------------|
-| HTML, CSS, JS, React, Vue | Node.js, Express | Python, OpenAI API, LangChain | Three.js, Blender |
-| TypeScript, Vite | MongoDB, SQLite | GPT-интеграции, автоматизация | WebGL, Canvas API |
-
-</div>
+- clean visual hierarchy
+- understandable structure for users and admins
+- code that can be extended after release
+- interfaces that look intentional, not generic
+- practical usefulness, not just "demo for demo's sake"
 
 ---
 
-<div align="center">
+## Collaboration
 
-# 📊 GitHub Статистика
+Open to:
 
-[![Моя статистика](https://github-readme-stats-diberlog.vercel.app/api?username=DIBERLOG&show_icons=true&theme=tokyonight&title_color=00eaff&text_color=ffffff&icon_color=00eaff&bg_color=0d1117&border_color=00eaff&ring_color=00eaff)](https://github.com/DIBERLOG)
+- freelance and project-based work
+- frontend and full-stack tasks
+- website redesigns and UI improvements
+- MVP and prototype development
+- educational, AI, and interactive digital products
 
-[![Топ языков](https://github-readme-stats-diberlog.vercel.app/api/top-langs/?username=DIBERLOG&layout=donut&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff&v=2)](https://github.com/DIBERLOG)
+---
 
-</div>
+## Contact
+
+- GitHub: [github.com/DIBERLOG](https://github.com/DIBERLOG)
+- Email: [minectur@gmail.com](mailto:minectur@gmail.com)
+- Discord: `diberloger`
+- Website: [phys-lab.ru](https://phys-lab.ru)
 
 ---
 
 <div align="center">
 
-> _«Важно никогда не переставать задавать вопросы.  
-Любознательность имеет свою собственную причину существовать.»_  
-
-— Альберт Эйнштейн
-
-</div>
-
----
-
-### 🌐 Контакты
-
-📫 **GitHub:** https://github.com/DIBERLOG  
-💬 **Discord:** `diberloger`  
-🧩 **Email:** minectur@gmail.com  
-🎨 **Проекты:** https://phys-lab.ru
-
----
-
-<div align="center">
-
-✨ _«Создаю инженерные и образовательные проекты на стыке науки и технологий.»_ ✨
+Building interfaces and digital products that are clear, expressive, and useful.
 
 </div>
