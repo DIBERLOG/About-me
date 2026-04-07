@@ -1,13 +1,13 @@
 <div align="center">
 
-# Egor Angelov
-### Frontend / Full-Stack Developer for custom websites, interfaces, automation, and AI tools
+# Егор Ангелов
+### Frontend / Full-Stack разработчик сайтов, интерфейсов, интерактивных продуктов и AI-инструментов
 
-I build projects that are not just "beautiful in screenshots", but usable in real work:
-landing pages, business websites, dashboards, internal tools, educational products, and AI-driven interfaces.
+Создаю проекты, которые не просто выглядят эффектно, а реально решают задачи:
+сайты для бизнеса, визуально сильные интерфейсы, образовательные платформы, AI-сервисы и кастомные веб-продукты.
 
 [![GitHub](https://img.shields.io/badge/GitHub-DIBERLOG-111827?style=for-the-badge&logo=github)](https://github.com/DIBERLOG)
-[![Portfolio](https://img.shields.io/badge/Portfolio-phys--lab.ru-0f172a?style=for-the-badge)](https://phys-lab.ru)
+[![Портфолио](https://img.shields.io/badge/Portfolio-phys--lab.ru-0f172a?style=for-the-badge)](https://phys-lab.ru)
 [![Email](https://img.shields.io/badge/Email-minectur%40gmail.com-1d4ed8?style=for-the-badge)](mailto:minectur@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-diberloger-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 
@@ -15,114 +15,114 @@ landing pages, business websites, dashboards, internal tools, educational produc
 
 ---
 
-## About Me
+## Обо мне
 
-I am a developer with a strong focus on frontend, product logic, and visual presentation.
-I combine practical web development with research and educational projects, and I am especially interested in interfaces where design, engineering, and real user scenarios matter equally.
+Я разработчик с сильным уклоном в frontend, продуктовую логику и визуальную подачу.
+Мне интересны проекты на стыке дизайна, технологий, интерактивности и практической пользы: от коммерческих сайтов и интерфейсов до образовательных и исследовательских систем.
 
-I can help clients with:
+С чем могу помочь:
 
-- custom landing pages and business websites
-- frontend implementation from idea, reference, or design
-- WordPress and WooCommerce projects
-- admin panels, dashboards, and internal interfaces
-- AI-powered utilities, automations, and desktop/web tools
-- improving project presentation for demos, portfolio, and sales
-
----
-
-## Why Clients Work With Me
-
-- I focus not only on code, but on the final impression the product creates
-- I can package a project into a strong, presentable case, not just "deliver files"
-- I work across design, frontend, business logic, and product structure
-- I am comfortable with both educational/experimental systems and commercial interfaces
+- разработка сайтов и landing page под бизнес-задачи
+- frontend-реализация по идее, референсу или макету
+- WordPress и WooCommerce проекты
+- админки, панели управления и внутренние сервисы
+- AI-инструменты, автоматизации и нестандартные digital-решения
+- улучшение визуальной подачи и упаковки продукта для клиентов, демо и портфолио
 
 ---
 
-## Tech Stack
+## Почему со мной удобно работать
 
-| Area | Technologies |
+- думаю не только как разработчик, но и как человек, который собирает цельный продукт
+- умею совмещать код, структуру, UX и презентационную подачу
+- делаю интерфейсы, которые выглядят осмысленно, а не шаблонно
+- умею превращать даже сложный или технический проект в понятный и сильный кейс
+
+---
+
+## Стек
+
+| Направление | Технологии |
 | --- | --- |
 | Frontend | HTML, CSS, JavaScript, TypeScript, React, Vue, Vite |
 | Backend | Node.js, Express, PHP, WordPress, WooCommerce |
 | AI / Automation | Python, OpenAI API, Ollama, OCR, automation scripts |
-| Visual / Interactive | Three.js, WebGL, Canvas, UI systems, interactive graphics |
-| Data / Storage | MongoDB, SQLite, MySQL |
+| Визуал / Interactive | Three.js, WebGL, Canvas, UI systems, interactive graphics |
+| Данные | MongoDB, SQLite, MySQL |
 
 ---
 
-## Selected Client-Facing Projects
+## Ключевые проекты
+
+### Лаборатория Менделеева
+Интерактивная образовательная платформа на основе таблицы Менделеева. Проект показывает мою работу с UI, визуальной логикой, структурой данных и созданием понятного цифрового продукта для обучения.
+
+[![Mendeleev Lab](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=mendeleev-lab.ru&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/mendeleev-lab.ru)
+
+### Map Fiziki
+Интерактивная карта физики для навигации по темам, связям и знаниям. Это кейс про визуализацию сложной структуры, образовательный UX и работу с интерактивной подачей научного контента.
+
+[![Map Fiziki](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=map_fiziki&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff&v=3)](https://github.com/DIBERLOG/map_fiziki)
 
 ### Matreshka Master
-Premium WordPress / WooCommerce catalog website for a collectible matryoshka brand with custom theme, editable sections, request forms, and multilingual-ready architecture.
+Премиальный WordPress / WooCommerce сайт-каталог для бренда коллекционных матрёшек. Здесь показаны моя работа с кастомной темой, архитектурой каталога, editable-секциями, формами заявок и подачей продукта для реального бизнеса.
 
 [![Matreshka Master](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=matreshka-master-wordpress&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/matreshka-master-wordpress)
 
-### Manor Lords AI Agent
-Desktop AI agent with GUI, OCR, local LLM planning, and automated actions. A technical case that demonstrates work with Python tooling, computer vision, UI automation, and product packaging.
-
-[![Manor Lords AI](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=manor-lords-ai&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/manor-lords-ai)
-
 ### Vue Work Lab
-Vue 3 + Express SPA with interactive modules, API work, forms, state handling, and full educational app structure. Useful as a demonstration of component architecture and frontend logic.
+Учебный, но полноценный SPA-проект на Vue 3 + Express с интерактивными модулями, API, формами и компонентной архитектурой. Хорошо демонстрирует мой уровень в frontend-логике и организации full-stack структуры.
 
 [![Vue Work Lab](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=work_project&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/work_project)
 
 ---
 
-## Other Strong Projects
+## Другие проекты
 
-### Mendeleev Lab
-Interactive educational platform based on the periodic table with custom UI, content structure, and visual logic for learning and exploration.
+### Manor Lords AI Agent
+Desktop AI-агент с GUI, OCR, локальной LLM-логикой и автоматизацией действий. Технически сильный кейс, показывающий работу с Python, computer vision, локальными AI-моделями и desktop automation.
 
-[![Mendeleev Lab](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=mendeleev-lab.ru&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/mendeleev-lab.ru)
+[![Manor Lords AI](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=manor-lords-ai&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/manor-lords-ai)
 
 ### AI Screenshot Assistant
-Practical AI utility for screenshot analysis with multi-provider integration and image-processing workflow.
+AI-инструмент для анализа скриншотов с multi-provider интеграцией и обработкой изображений. Демонстрирует практическую работу с AI API и прикладными пользовательскими сценариями.
 
 [![AI Screenshot Assistant](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=AI-Screenshot-Assistant-Ultimate-Multi-Provider-Edition&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/AI-Screenshot-Assistant-Ultimate-Multi-Provider-Edition)
 
-### Map Fiziki
-Interactive visual knowledge map for physics topics with focus on structure, relations, search, and educational navigation.
+---
 
-[![Map Fiziki](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=map_fiziki&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff&v=3)](https://github.com/DIBERLOG/map_fiziki)
+## Что для меня важно в проектах
+
+- чистая и выразительная визуальная иерархия
+- понятная структура для пользователя и заказчика
+- код, который можно развивать после релиза
+- интерфейсы с характером, а не безликие шаблоны
+- практическая польза и реальный сценарий применения
 
 ---
 
-## What I Value In Projects
+## Форматы сотрудничества
 
-- clean visual hierarchy
-- understandable structure for users and admins
-- code that can be extended after release
-- interfaces that look intentional, not generic
-- practical usefulness, not just "demo for demo's sake"
+Открыт к:
 
----
-
-## Collaboration
-
-Open to:
-
-- freelance and project-based work
-- frontend and full-stack tasks
-- website redesigns and UI improvements
-- MVP and prototype development
-- educational, AI, and interactive digital products
+- проектной и фриланс-работе
+- frontend и full-stack задачам
+- редизайну и усилению существующих сайтов
+- разработке MVP и прототипов
+- образовательным, AI и интерактивным digital-проектам
 
 ---
 
-## Contact
+## Контакты
 
 - GitHub: [github.com/DIBERLOG](https://github.com/DIBERLOG)
 - Email: [minectur@gmail.com](mailto:minectur@gmail.com)
 - Discord: `diberloger`
-- Website: [phys-lab.ru](https://phys-lab.ru)
+- Сайт: [phys-lab.ru](https://phys-lab.ru)
 
 ---
 
 <div align="center">
 
-Building interfaces and digital products that are clear, expressive, and useful.
+Создаю цифровые продукты, которые выглядят сильно, работают понятно и решают реальные задачи.
 
 </div>
