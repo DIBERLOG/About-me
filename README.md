@@ -83,6 +83,16 @@
 
 [![Vue Work Lab](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=work_project&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/work_project)
 
+### MongoDB Practice Hub
+Единый учебный full-stack проект на Vue, Express, Mongoose и MongoDB. Внутри собраны поиск по MongoDB через браузер, каталог товаров, CRUD объявлений, связи между коллекциями, видео, блогеры и плейлисты. Кейс показывает работу с архитектурой full-stack приложения, API, базой данных и учебной подачей сложного материала.
+
+[![MongoDB Practice Hub](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=MongoDB-Practice-Hub&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/MongoDB-Practice-Hub)
+
+### Urban Blueprint City Techplan
+Проект городского технологического плана с акцентом на структуру, визуальную подачу и презентацию комплексной городской идеи. Кейс демонстрирует работу с архитектурой информации, интерфейсной упаковкой и оформлением сложной концепции в понятный digital-продукт.
+
+[![Urban Blueprint](https://github-readme-stats-diberlog.vercel.app/api/pin/?username=DIBERLOG&repo=urban-blueprint_city-techplan&theme=tokyonight&title_color=00eaff&text_color=ffffff&bg_color=0d1117&border_color=00eaff)](https://github.com/DIBERLOG/urban-blueprint_city-techplan)
+
 ---
 
 ## Другие проекты
