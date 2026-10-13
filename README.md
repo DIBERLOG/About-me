@@ -6,6 +6,12 @@
 
 Создаю сайты, интерфейсы и прикладные AI-инструменты. Специализируюсь на внедрении AI и работе с субагентами в бизнес-процессах: от постановки задачи и распределения ролей до интеграции с рабочими инструментами и проверки результата.
 
+**Лаборатория Менделеева**
+
+[![🌐 Перейти на сайт](https://img.shields.io/badge/%F0%9F%8C%90%20%D0%9F%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8-%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82-00eaff?style=for-the-badge)](https://mendeleev-lab.ru/)
+[![💾 Репозиторий](https://img.shields.io/badge/%F0%9F%92%BE%20GitHub-%D0%98%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8-black?style=for-the-badge&logo=github)](https://github.com/DIBERLOG/mendeleev-lab.ru)
+[![🛡️ Лицензия](https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F%20%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F-MendeleevLab_License_v1.0-4a90e2?style=for-the-badge)](https://github.com/DIBERLOG/mendeleev-lab.ru/blob/main/LICENSE.md)
+
 **[Проекты](#избранные-проекты) · [Все репозитории](#каталог-публичных-репозиториев) · [Связаться](#контакты)**
 
 [![Проверка и обновление портфолио](https://github.com/DIBERLOG/About-me/actions/workflows/portfolio.yml/badge.svg)](https://github.com/DIBERLOG/About-me/actions/workflows/portfolio.yml)
@@ -180,4 +186,3 @@ WordPress / WooCommerce сайт-каталог коллекционных ма�
 
 ---
 
-[Как обновляется портфолио](CONTRIBUTING.md)
