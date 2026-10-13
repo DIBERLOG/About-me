@@ -69,7 +69,7 @@
 ### [🤖 JARVIS · ALTRON](https://github.com/DIBERLOG/JARVIS_ALTRON)
 
 <!-- CARD:START -->
-[![🤖 JARVIS · ALTRON](assets/cards/JARVIS_ALTRON.svg)](https://github.com/DIBERLOG/JARVIS_ALTRON)
+[![JARVIS · ALTRON](assets/cards/JARVIS_ALTRON.svg)](https://github.com/DIBERLOG/JARVIS_ALTRON)
 <!-- CARD:END -->
 
 Настольный помощник: голосовые команды, чат с локальными и облачными моделями, личный центр и работа с документами. В экспериментальном разделе «Агенты · LAB» задачи распределяются между помощниками для подготовки и проверки писем, документов и отчётов.
@@ -102,7 +102,7 @@
 ### [🪆 Matreshka Master](https://github.com/DIBERLOG/matreshka-master-wordpress)
 
 <!-- CARD:START -->
-[![🪆 Matreshka Master](assets/cards/matreshka-master-wordpress.svg)](https://github.com/DIBERLOG/matreshka-master-wordpress)
+[![Matreshka Master](assets/cards/matreshka-master-wordpress.svg)](https://github.com/DIBERLOG/matreshka-master-wordpress)
 <!-- CARD:END -->
 
 WordPress / WooCommerce сайт-каталог коллекционных матрёшек: кастомная тема, редактируемая главная страница, каталог и формы заявок.
@@ -156,12 +156,12 @@ WordPress / WooCommerce сайт-каталог коллекционных ма�
 Каталог обновляется автоматически из GitHub. Форки отмечены отдельно; новые публичные проекты добавляются при следующем обновлении. Инструкции запуска и условия использования находятся в каждом репозитории.
 
 <!-- PROJECTS:START -->
-[![📸 AI Screenshot Assistant](assets/cards/AI-Screenshot-Assistant-Ultimate-Multi-Provider-Edition.svg)](https://github.com/DIBERLOG/AI-Screenshot-Assistant-Ultimate-Multi-Provider-Edition)
+[![AI Screenshot Assistant](assets/cards/AI-Screenshot-Assistant-Ultimate-Multi-Provider-Edition.svg)](https://github.com/DIBERLOG/AI-Screenshot-Assistant-Ultimate-Multi-Provider-Edition)
 [![Earthlight-VS-Aliens-Attacks](assets/cards/Earthlight-VS-Aliens-Attacks.svg)](https://github.com/DIBERLOG/Earthlight-VS-Aliens-Attacks)
-[![🤖 JARVIS · ALTRON](assets/cards/JARVIS_ALTRON.svg)](https://github.com/DIBERLOG/JARVIS_ALTRON)
+[![JARVIS · ALTRON](assets/cards/JARVIS_ALTRON.svg)](https://github.com/DIBERLOG/JARVIS_ALTRON)
 [![manor-lords-ai](assets/cards/manor-lords-ai.svg)](https://github.com/DIBERLOG/manor-lords-ai)
 [![map_fiziki](assets/cards/map_fiziki.svg)](https://github.com/DIBERLOG/map_fiziki)
-[![🪆 Matreshka Master](assets/cards/matreshka-master-wordpress.svg)](https://github.com/DIBERLOG/matreshka-master-wordpress)
+[![Matreshka Master](assets/cards/matreshka-master-wordpress.svg)](https://github.com/DIBERLOG/matreshka-master-wordpress)
 [![mendeleev-lab.ru](assets/cards/mendeleev-lab.ru.svg)](https://github.com/DIBERLOG/mendeleev-lab.ru)
 [![MongoDB-Practice-Hub](assets/cards/MongoDB-Practice-Hub.svg)](https://github.com/DIBERLOG/MongoDB-Practice-Hub)
 [![New Year&#x27;s Gift Collection](assets/cards/New-Year-s-Gift-collection.svg)](https://github.com/DIBERLOG/New-Year-s-Gift-collection)
