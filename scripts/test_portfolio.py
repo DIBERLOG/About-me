@@ -7,9 +7,9 @@ from update_portfolio import fetch_repositories, render_catalog, render_stats, r
 class PortfolioTest(unittest.TestCase):
     def test_public_filter_escaping_and_statistics(self):
         repos = [
-            {"name": "A", "description": "<tag>|x\ny", "language": "Python", "stargazers_count": 3},
-            {"name": "Fork", "fork": True, "language": "Rust", "stargazers_count": 99},
-            {"name": "Farm-bot", "language": "Python", "stargazers_count": 99},
+            {"name": "A", "description": "<tag>|x\ny", "language": "Python", "stargazers_count": 3, "_languages": {"Python": 300, "CSS": 100}},
+            {"name": "Fork", "fork": True, "language": "Rust", "stargazers_count": 99, "_languages": {"Rust": 9999}},
+            {"name": "Farm-bot", "language": "Python", "stargazers_count": 99, "_languages": {"Python": 9999}},
             {"name": "Secret", "private": True},
         ]
         table = render_catalog(repos)
@@ -28,8 +28,10 @@ class PortfolioTest(unittest.TestCase):
         self.assertIn('#00eaff', card)
         languages = render_languages(repos)
         ET.fromstring(languages)
-        self.assertIn('Python: 1', languages)
+        self.assertIn('Python: 75.0%', languages)
+        self.assertIn('CSS: 25.0%', languages)
         self.assertNotIn('Rust: 1', languages)
+        ET.fromstring(render_languages([]))
 
     def test_pagination(self):
         class Response:

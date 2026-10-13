@@ -157,9 +157,9 @@ WordPress / WooCommerce сайт-каталог коллекционных ма�
 
 <!-- STATS:START -->
 ![Статистика публичных проектов](assets/github-stats.svg)
-![Основные языки проектов](assets/github-languages.svg)
+![Топ языков — круговая диаграмма](assets/github-languages.svg)
 
-Данные на 2026-10-13 (UTC). Считаются публичные проекты портфолио без форков. Языки — число репозиториев по основному языку, а не доля кода.
+Данные на 2026-10-13 (UTC). Считаются публичные проекты портфолио без форков. Доли языков рассчитываются по объёму кода в байтах из GitHub Linguist.
 <!-- STATS:END -->
 
 Карточка хранится в этом репозитории и обновляется через GitHub Actions. [История обновлений](https://github.com/DIBERLOG/About-me/actions/workflows/portfolio.yml) · [Активность на GitHub](https://github.com/DIBERLOG?tab=overview).

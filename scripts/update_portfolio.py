@@ -1,6 +1,7 @@
 """Refresh public portfolio data using only the Python standard library."""
 import argparse
 from collections import Counter
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 from html import escape
 import json
@@ -22,6 +23,7 @@ TITLES = {
     "github-readme-stats-diberlog": "GitHub Readme Stats · fork",
 }
 COLORS = {"Python": "#3572A5", "JavaScript": "#f1e05a", "TypeScript": "#3178c6", "Vue": "#41b883", "Rust": "#dea584", "PHP": "#4F5D95"}
+COLORS.update({"HTML": "#e34c26", "CSS": "#563d7c", "Svelte": "#ff3e00", "C": "#555555", "C++": "#f34b7d", "Другие": "#8b949e"})
 
 
 def svg_frame(width, height, title, content):
@@ -41,17 +43,21 @@ def render_project_card(repo):
     return svg_frame(440, 145, title, text)
 
 
+def request_json(url):
+    request = Request(
+        url,
+        headers={"Accept": "application/vnd.github+json", "User-Agent": "About-me-portfolio"},
+    )
+    if os.environ.get("GITHUB_TOKEN"):
+        request.add_header("Authorization", f"Bearer {os.environ['GITHUB_TOKEN']}")
+    with urlopen(request, timeout=30) as response:
+        return json.load(response)
+
+
 def fetch_repositories():
     repositories = []
     for page in range(1, 100):
-        request = Request(
-            f"https://api.github.com/users/{OWNER}/repos?type=owner&per_page=100&page={page}",
-            headers={"Accept": "application/vnd.github+json", "User-Agent": "About-me-portfolio"},
-        )
-        if os.environ.get("GITHUB_TOKEN"):
-            request.add_header("Authorization", f"Bearer {os.environ['GITHUB_TOKEN']}")
-        with urlopen(request, timeout=30) as response:
-            batch = json.load(response)
+        batch = request_json(f"https://api.github.com/users/{OWNER}/repos?type=owner&per_page=100&page={page}")
         repositories.extend(batch)
         if len(batch) < 100:
             return repositories
@@ -96,17 +102,33 @@ def render_stats(repositories, date):
 
 
 def render_languages(repositories):
-    languages = Counter(r['language'] for r in visible(repositories) if not r.get('fork') and r.get('language'))
+    languages = Counter()
+    for repo in visible(repositories):
+        if not repo.get('fork'):
+            languages.update(repo.get('_languages', {}))
     total = sum(languages.values())
-    text = '<text x="24" y="35" fill="#00eaff" font-size="17" font-weight="600">Основные языки проектов</text>'
+    entries = languages.most_common()
+    if len(entries) > 6:
+        entries = entries[:5] + [('Другие', sum(count for _, count in entries[5:]))]
+    text = '<text x="24" y="35" fill="#00eaff" font-size="17" font-weight="600">Топ языков</text>'
     offset = 0
-    for i, (language, count) in enumerate(languages.most_common()):
+    for i, (language, count) in enumerate(entries):
         color = COLORS.get(language, '#8b949e')
         text += f'<circle cx="105" cy="110" r="46" fill="none" stroke="{color}" stroke-width="17" pathLength="100" stroke-dasharray="{count/total*100} {100-count/total*100}" stroke-dashoffset="{-offset}" transform="rotate(-90 105 110)"/>'
-        text += f'<circle cx="211" cy="{65+i*18}" r="4" fill="{color}"/><text x="224" y="{69+i*18}" fill="#ffffff" font-size="12">{escape(language)}: {count}</text>'
+        text += f'<circle cx="211" cy="{65+i*18}" r="4" fill="{color}"/><text x="224" y="{69+i*18}" fill="#ffffff" font-size="12">{escape(language)}: {count/total*100:.1f}%</text>'
         offset += count/total*100
-    text += f'<text x="105" y="115" text-anchor="middle" fill="#ffffff" font-size="22">{total}</text><text x="24" y="180" fill="#8b949e" font-size="10">Число репозиториев по основному языку, не доля кода</text>'
-    return svg_frame(440, 195, 'Основные языки публичных проектов', text)
+    text += '<text x="105" y="115" text-anchor="middle" fill="#ffffff" font-size="18">Код</text><text x="24" y="180" fill="#8b949e" font-size="10">Доли по объёму кода в байтах · GitHub Linguist</text>'
+    if not total:
+        text += '<text x="205" y="110" fill="#ffffff" font-size="12">Нет данных о языках</text>'
+    return svg_frame(440, 195, 'Топ языков публичных проектов', text)
+
+
+def load_languages(repositories):
+    projects = [r for r in visible(repositories) if not r.get('fork')]
+    with ThreadPoolExecutor(max_workers=4) as pool:
+        results = pool.map(lambda repo: request_json(f"https://api.github.com/repos/{OWNER}/{repo['name']}/languages"), projects)
+        for repo, languages in zip(projects, results):
+            repo['_languages'] = languages
 
 
 def replace_section(readme, name, content):
@@ -125,10 +147,11 @@ def main():
     repositories = json.loads(args.snapshot.read_text(encoding="utf-8-sig")) if args.snapshot else fetch_repositories()
     if not repositories:
         raise ValueError("Empty response: refusing to erase portfolio data")
+    load_languages(repositories)
     date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     readme_path = ROOT / "README.md"
     updated = replace_section(readme_path.read_text(encoding="utf-8"), "PROJECTS", '\n'.join(f'[![{cell(TITLES.get(r["name"], r["name"]))}](assets/cards/{r["name"]}.svg)](https://github.com/{OWNER}/{r["name"]})' for r in visible(repositories)))
-    updated = replace_section(updated, "STATS", f"![Статистика публичных проектов](assets/github-stats.svg)\n![Основные языки проектов](assets/github-languages.svg)\n\nДанные на {date} (UTC). Считаются публичные проекты портфолио без форков. Языки — число репозиториев по основному языку, а не доля кода.")
+    updated = replace_section(updated, "STATS", f"![Статистика публичных проектов](assets/github-stats.svg)\n![Топ языков — круговая диаграмма](assets/github-languages.svg)\n\nДанные на {date} (UTC). Считаются публичные проекты портфолио без форков. Доли языков рассчитываются по объёму кода в байтах из GitHub Linguist.")
     # Keep a project card next to each hand-written featured case.
     updated = re.sub(r'\n<!-- CARD:START -->.*?<!-- CARD:END -->\n', '', updated, flags=re.S)
     for repo in visible(repositories):
