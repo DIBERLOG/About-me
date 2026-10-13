@@ -1,7 +1,7 @@
 import unittest
 from unittest.mock import patch
 import xml.etree.ElementTree as ET
-from update_portfolio import fetch_repositories, render_catalog, render_stats, replace_section
+from update_portfolio import fetch_repositories, render_catalog, render_stats, render_project_card, render_languages, replace_section
 
 
 class PortfolioTest(unittest.TestCase):
@@ -22,6 +22,14 @@ class PortfolioTest(unittest.TestCase):
         self.assertIn("Проекты: 1", svg)
         self.assertIn("Звёзды: 3", svg)
         self.assertNotIn("Rust: 1", svg)
+        card = render_project_card(repos[0])
+        ET.fromstring(card)
+        self.assertIn('&lt;tag&gt;', card)
+        self.assertIn('#00eaff', card)
+        languages = render_languages(repos)
+        ET.fromstring(languages)
+        self.assertIn('Python: 1', languages)
+        self.assertNotIn('Rust: 1', languages)
 
     def test_pagination(self):
         class Response:

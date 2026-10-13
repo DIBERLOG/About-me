@@ -54,6 +54,10 @@
 
 ### [JARVIS · ALTRON](https://github.com/DIBERLOG/JARVIS_ALTRON)
 
+<!-- CARD:START -->
+[![JARVIS · ALTRON](assets/cards/JARVIS_ALTRON.svg)](https://github.com/DIBERLOG/JARVIS_ALTRON)
+<!-- CARD:END -->
+
 Настольный помощник: голосовые команды, чат с локальными и облачными моделями, личный центр и работа с документами. В экспериментальном разделе «Агенты · LAB» задачи распределяются между помощниками для подготовки и проверки писем, документов и отчётов.
 
 **Rust · Tauri · Svelte · AI · субагенты**
@@ -64,29 +68,57 @@
 
 ### [Лаборатория Менделеева](https://github.com/DIBERLOG/mendeleev-lab.ru)
 
+<!-- CARD:START -->
+[![mendeleev-lab.ru](assets/cards/mendeleev-lab.ru.svg)](https://github.com/DIBERLOG/mendeleev-lab.ru)
+<!-- CARD:END -->
+
 Интерактивная образовательная платформа на основе таблицы Менделеева. Проект объединяет навигацию по элементам, структуру данных и наглядный интерфейс для изучения химии.
 
 ### [Map Fiziki](https://github.com/DIBERLOG/map_fiziki)
+
+<!-- CARD:START -->
+[![map_fiziki](assets/cards/map_fiziki.svg)](https://github.com/DIBERLOG/map_fiziki)
+<!-- CARD:END -->
 
 Образовательная карта физики: темы, связи и визуальная навигация по знаниям. Кейс про работу со сложной информацией и образовательный UX. [Сайт Phys-Lab](https://phys-lab.ru).
 
 ### [Matreshka Master](https://github.com/DIBERLOG/matreshka-master-wordpress)
 
+<!-- CARD:START -->
+[![Matreshka Master](assets/cards/matreshka-master-wordpress.svg)](https://github.com/DIBERLOG/matreshka-master-wordpress)
+<!-- CARD:END -->
+
 WordPress / WooCommerce сайт-каталог коллекционных матрёшек: кастомная тема, редактируемая главная страница, каталог и формы заявок.
 
 ### [MongoDB Practice Hub](https://github.com/DIBERLOG/MongoDB-Practice-Hub)
+
+<!-- CARD:START -->
+[![MongoDB-Practice-Hub](assets/cards/MongoDB-Practice-Hub.svg)](https://github.com/DIBERLOG/MongoDB-Practice-Hub)
+<!-- CARD:END -->
 
 Учебное full-stack приложение на Vue, Express, Mongoose и MongoDB: поиск, CRUD, фильтрация, сортировка, валидация и связанные коллекции.
 
 ### [Vue Work Lab](https://github.com/DIBERLOG/work_project)
 
+<!-- CARD:START -->
+[![work_project](assets/cards/work_project.svg)](https://github.com/DIBERLOG/work_project)
+<!-- CARD:END -->
+
 Набор интерактивных учебных мини-приложений: компоненты, состояние, формы и пользовательские сценарии в едином интерфейсе Vue.
 
 ### [Sait Proect](https://github.com/DIBERLOG/sait-proect)
 
+<!-- CARD:START -->
+[![sait-proect](assets/cards/sait-proect.svg)](https://github.com/DIBERLOG/sait-proect)
+<!-- CARD:END -->
+
 Учебные практики Nuxt и Vue: API, реактивный каталог iPhone, социальная сеть, маршрутизация и режимы SSR / CSR / SWR.
 
 ### [Urban Blueprint City Techplan](https://github.com/DIBERLOG/urban-blueprint_city-techplan)
+
+<!-- CARD:START -->
+[![Urban Blueprint · City Techplan](assets/cards/urban-blueprint_city-techplan.svg)](https://github.com/DIBERLOG/urban-blueprint_city-techplan)
+<!-- CARD:END -->
 
 Создание, редактирование и публикация 2D-схем города: зоны, дороги, здания и публичные карты.
 
@@ -105,28 +137,27 @@ WordPress / WooCommerce сайт-каталог коллекционных ма�
 Каталог обновляется автоматически из GitHub. Форки отмечены отдельно; новые публичные проекты добавляются при следующем обновлении. Инструкции запуска и условия использования находятся в каждом репозитории.
 
 <!-- PROJECTS:START -->
-| Проект | Основной язык | Описание | Статус |
-| --- | --- | --- | --- |
-| [AI-Screenshot-Assistant-Ultimate-Multi-Provider-Edition](https://github.com/DIBERLOG/AI-Screenshot-Assistant-Ultimate-Multi-Provider-Edition) | Python | AI Screenshot Assistant Ultimate — это интеллектуальный помощник для анализа, перевода и обработки текста прямо со скриншотов. Программа автоматически распознаёт текст с изображений (через Tesseract OCR) и отправляет его в выбранный AI-провайдер (например, Google Gemini, Groq, OpenAI, DeepSeek, Together или Custom API). | Публичный |
-| [Earthlight-VS-Aliens-Attacks](https://github.com/DIBERLOG/Earthlight-VS-Aliens-Attacks) | Python | The game &quot;Earthlings vs aliens&quot;. | Публичный |
-| [JARVIS_ALTRON](https://github.com/DIBERLOG/JARVIS_ALTRON) | Rust | Jarvis Altron — clean working version with voice commands, chat and TTS | Публичный |
-| [manor-lords-ai](https://github.com/DIBERLOG/manor-lords-ai) | Python | В ДОРАБОТКЕ!!! Внешний настольный агент для Manor Lords может считывать состояние HUD, обнаруживать оповещения, планировать действия с помощью Ollama + Qwen3 8B и выполнять действия по сборке через отдельное окно управления. | Публичный |
-| [map_fiziki](https://github.com/DIBERLOG/map_fiziki) | JavaScript | образовательный веб-проект для визуального изучения физики: от классики до квантовой теории и будущих направлений науки. | Публичный |
-| [matreshka-master-wordpress](https://github.com/DIBERLOG/matreshka-master-wordpress) | PHP | premium-сайт на WordPress для бренда коллекционных матрёшек.Кастомный WordPress-проект с premium UI, WooCommerce-каталогом, редактируемой главной страницей, формами заявок и подготовленной архитектурой под мультиязычность. | Публичный |
-| [mendeleev-lab.ru](https://github.com/DIBERLOG/mendeleev-lab.ru) | JavaScript | Этот сайт был создан по просьбе моего преподавателя химии из колледжа.  | Публичный |
-| [MongoDB-Practice-Hub](https://github.com/DIBERLOG/MongoDB-Practice-Hub) | Vue | учебный веб-проект по MongoDB, Mongoose, Express и Vue, в котором собраны поиск по базе, CRUD-операции, фильтрация, сортировка, валидация схем и работа со связанными коллекциями в формате единого сайта-практикума. | Публичный |
-| [New-Year-s-Gift-collection](https://github.com/DIBERLOG/New-Year-s-Gift-collection) | Python | Коллекция новогодних подарков Новогодняя аркада с ограниченным временем. | Публичный |
-| [sait-proect](https://github.com/DIBERLOG/sait-proect) | Vue | Описание и инструкции — в репозитории. | Публичный |
-| [the-minecraft-project](https://github.com/DIBERLOG/the-minecraft-project) | Python | This game was created by me and is an analog of mancraft | Публичный |
-| [urban-blueprint_city-techplan](https://github.com/DIBERLOG/urban-blueprint_city-techplan) | TypeScript | Веб-проект для создания, редактирования и публикации 2D-схем города в стиле инженерного генплана: зоны, дороги, здания, ворота, служебные элементы и публичные карты. | Публичный |
-| [work_project](https://github.com/DIBERLOG/work_project) | Vue | это большая учебная страница, в которой собрано несколько независимых мини-приложений. Проект показывает, как в одном интерфейсе можно объединить разные паттерны работы Vue: от простых счетчиков и выбора языка до более живых сценариев с покупкой растений, сбором урожая. | Публичный |
-| [github-readme-stats-diberlog](https://github.com/DIBERLOG/github-readme-stats-diberlog) | — | :zap: Dynamically generated stats for your github readmes | Публичный · форк |
+[![AI Screenshot Assistant](assets/cards/AI-Screenshot-Assistant-Ultimate-Multi-Provider-Edition.svg)](https://github.com/DIBERLOG/AI-Screenshot-Assistant-Ultimate-Multi-Provider-Edition)
+[![Earthlight-VS-Aliens-Attacks](assets/cards/Earthlight-VS-Aliens-Attacks.svg)](https://github.com/DIBERLOG/Earthlight-VS-Aliens-Attacks)
+[![JARVIS · ALTRON](assets/cards/JARVIS_ALTRON.svg)](https://github.com/DIBERLOG/JARVIS_ALTRON)
+[![manor-lords-ai](assets/cards/manor-lords-ai.svg)](https://github.com/DIBERLOG/manor-lords-ai)
+[![map_fiziki](assets/cards/map_fiziki.svg)](https://github.com/DIBERLOG/map_fiziki)
+[![Matreshka Master](assets/cards/matreshka-master-wordpress.svg)](https://github.com/DIBERLOG/matreshka-master-wordpress)
+[![mendeleev-lab.ru](assets/cards/mendeleev-lab.ru.svg)](https://github.com/DIBERLOG/mendeleev-lab.ru)
+[![MongoDB-Practice-Hub](assets/cards/MongoDB-Practice-Hub.svg)](https://github.com/DIBERLOG/MongoDB-Practice-Hub)
+[![New Year&#x27;s Gift Collection](assets/cards/New-Year-s-Gift-collection.svg)](https://github.com/DIBERLOG/New-Year-s-Gift-collection)
+[![sait-proect](assets/cards/sait-proect.svg)](https://github.com/DIBERLOG/sait-proect)
+[![the-minecraft-project](assets/cards/the-minecraft-project.svg)](https://github.com/DIBERLOG/the-minecraft-project)
+[![Urban Blueprint · City Techplan](assets/cards/urban-blueprint_city-techplan.svg)](https://github.com/DIBERLOG/urban-blueprint_city-techplan)
+[![work_project](assets/cards/work_project.svg)](https://github.com/DIBERLOG/work_project)
+[![GitHub Readme Stats · fork](assets/cards/github-readme-stats-diberlog.svg)](https://github.com/DIBERLOG/github-readme-stats-diberlog)
 <!-- PROJECTS:END -->
 
 ## GitHub Статистика
 
 <!-- STATS:START -->
 ![Статистика публичных проектов](assets/github-stats.svg)
+![Основные языки проектов](assets/github-languages.svg)
 
 Данные на 2026-10-13 (UTC). Считаются публичные проекты портфолио без форков. Языки — число репозиториев по основному языку, а не доля кода.
 <!-- STATS:END -->
