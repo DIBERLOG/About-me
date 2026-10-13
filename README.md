@@ -6,11 +6,33 @@
 
 Создаю сайты, интерфейсы и прикладные AI-инструменты. Специализируюсь на внедрении AI и работе с субагентами в бизнес-процессах: от постановки задачи и распределения ролей до интеграции с рабочими инструментами и проверки результата.
 
-**🧪 Лаборатория Менделеева**
+**💻 Языки**
 
-[![🌐 Перейти на сайт](https://img.shields.io/badge/%F0%9F%8C%90%20%D0%9F%D0%B5%D1%80%D0%B5%D0%B9%D1%82%D0%B8-%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82-00eaff?style=for-the-badge)](https://mendeleev-lab.ru/)
-[![💾 Репозиторий](https://img.shields.io/badge/%F0%9F%92%BE%20GitHub-%D0%98%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8-black?style=for-the-badge&logo=github)](https://github.com/DIBERLOG/mendeleev-lab.ru)
-[![🛡️ Лицензия](https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F%20%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F-MendeleevLab_License_v1.0-4a90e2?style=for-the-badge)](https://github.com/DIBERLOG/mendeleev-lab.ru/blob/main/LICENSE.md)
+[![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#технологии)
+[![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)](#технологии)
+[![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)](#технологии)
+[![Rust](https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=FFFFFF)](#технологии)
+[![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)](#технологии)
+[![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)](#технологии)
+[![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=663399)](#технологии)
+
+**⚙️ Технологии**
+
+[![Vue](https://img.shields.io/badge/Vue-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](#технологии)
+[![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)](#технологии)
+[![Nuxt](https://img.shields.io/badge/Nuxt-0D1117?style=for-the-badge&logo=nuxt&logoColor=00DC82)](#технологии)
+[![Svelte](https://img.shields.io/badge/Svelte-0D1117?style=for-the-badge&logo=svelte&logoColor=FF3E00)](#технологии)
+[![Tauri](https://img.shields.io/badge/Tauri-0D1117?style=for-the-badge&logo=tauri&logoColor=24C8D8)](#технологии)
+[![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)](#технологии)
+[![WordPress](https://img.shields.io/badge/WordPress-0D1117?style=for-the-badge&logo=wordpress&logoColor=21759B)](#технологии)
+
+[![AI-интеграции](https://img.shields.io/badge/%F0%9F%A7%A0%20AI-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D0%B8-00eaff?style=for-the-badge)](#ai-и-субагенты)
+[![Субагенты](https://img.shields.io/badge/%F0%9F%A4%96%20%D0%A1%D1%83%D0%B1%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%8B-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81--%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D1%8B-8B5CF6?style=for-the-badge)](#ai-и-субагенты)
+[![Full-Stack](https://img.shields.io/badge/%E2%9A%A1%20Full--Stack-разработка-22C55E?style=for-the-badge)](#избранные-проекты)
+
+[![GitHub](https://img.shields.io/badge/GitHub-DIBERLOG-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DIBERLOG)
+[![Написать](https://img.shields.io/badge/%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C-Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minectur@gmail.com)
+[![Портфолио](https://img.shields.io/badge/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE-phys--lab.ru-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://phys-lab.ru)
 
 **[🚀 Проекты](#избранные-проекты) · [🗂️ Все репозитории](#каталог-публичных-репозиториев) · [📬 Связаться](#контакты)**
 
@@ -23,6 +45,8 @@
 Работаю на стыке веб-разработки, автоматизации и искусственного интеллекта. Мне интересны продукты, где понятный интерфейс помогает решить конкретную задачу: изучить тему, организовать работу, обработать документ или сократить повторяющиеся действия.
 
 Развиваю собственные образовательные проекты, игры и настольные приложения. Уделяю внимание архитектуре, визуальной иерархии и возможности поддерживать продукт после запуска.
+
+<a id="ai-и-субагенты"></a>
 
 ## 🤖 AI и субагенты в бизнес-процессах
 
@@ -50,6 +74,8 @@
 - WordPress / WooCommerce: кастомные темы, каталоги и формы заявок.
 - Образовательные интерфейсы, интерактивные карты и визуализация знаний.
 - Доработка существующих продуктов: UX, структура, автоматизация и поддерживаемый код.
+
+<a id="технологии"></a>
 
 ## ⚙️ Технологии
 
