@@ -185,6 +185,7 @@ WordPress / WooCommerce сайт-каталог коллекционных ма�
 [![AI Screenshot Assistant](assets/cards/AI-Screenshot-Assistant-Ultimate-Multi-Provider-Edition.svg)](https://github.com/DIBERLOG/AI-Screenshot-Assistant-Ultimate-Multi-Provider-Edition)
 [![Earthlight-VS-Aliens-Attacks](assets/cards/Earthlight-VS-Aliens-Attacks.svg)](https://github.com/DIBERLOG/Earthlight-VS-Aliens-Attacks)
 [![JARVIS · ALTRON](assets/cards/JARVIS_ALTRON.svg)](https://github.com/DIBERLOG/JARVIS_ALTRON)
+[![Mahou-Tsukai-26.1.2-Fabric](assets/cards/Mahou-Tsukai-26.1.2-Fabric.svg)](https://github.com/DIBERLOG/Mahou-Tsukai-26.1.2-Fabric)
 [![manor-lords-ai](assets/cards/manor-lords-ai.svg)](https://github.com/DIBERLOG/manor-lords-ai)
 [![map_fiziki](assets/cards/map_fiziki.svg)](https://github.com/DIBERLOG/map_fiziki)
 [![Matreshka Master](assets/cards/matreshka-master-wordpress.svg)](https://github.com/DIBERLOG/matreshka-master-wordpress)
@@ -206,7 +207,7 @@ WordPress / WooCommerce сайт-каталог коллекционных ма�
 ![Статистика публичных проектов](assets/github-stats.svg)
 ![Топ языков — круговая диаграмма](assets/github-languages.svg)
 
-Данные на 2026-10-13 (UTC). Считаются публичные проекты портфолио без форков. Доли языков рассчитываются по объёму кода в байтах из GitHub Linguist.
+Данные на 2026-10-19 (UTC). Считаются публичные проекты портфолио без форков. Доли языков рассчитываются по объёму кода в байтах из GitHub Linguist.
 <!-- STATS:END -->
 
 Карточка хранится в этом репозитории и обновляется через GitHub Actions. [История обновлений](https://github.com/DIBERLOG/About-me/actions/workflows/portfolio.yml) · [Активность на GitHub](https://github.com/DIBERLOG?tab=overview).
